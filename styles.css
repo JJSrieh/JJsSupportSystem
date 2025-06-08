@@ -58,9 +58,12 @@ nav a.active {
 }
 
 main {
+  main {
+  
   max-width: 900px;
   margin: 2rem auto 4rem auto;
   padding: 60px 1rem 100px 1rem; /* top, right, bottom, left */
+  flex-grow: 1;
 }
 
 section {
